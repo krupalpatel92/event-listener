@@ -1,4 +1,4 @@
-# event-listener
+# prevent-duplicate-js-event
 Preventing duplicate event listener on the same Tag/Element/Node
 
 # What can do
